@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T07:59:21.345Z",
+  "generated_at": "2026-10-11T18:21:36.551Z",
   "items": {
     "problem:14": {
       "kind": "problem",
@@ -76,6 +76,19 @@
       "path": "math/0025-kl-divergence",
       "first_solved_at": "2026-10-09T07:51:24.576Z",
       "last_pushed_at": "2026-10-09T07:59:20.667Z"
+    },
+    "problem:10": {
+      "kind": "problem",
+      "id": "10",
+      "title": "Calculate Covariance Matrix",
+      "difficulty": "easy",
+      "category": "Statistics",
+      "url": "https://www.deep-ml.com/problems/10",
+      "path": "problems/0010-calculate-covariance-matrix",
+      "first_solved_at": "2026-10-11T18:21:35.923Z",
+      "last_pushed_at": "2026-10-11T18:21:35.923Z",
+      "language": "python",
+      "lines": 13
     }
   }
 }

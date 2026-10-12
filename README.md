@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**9** solved · 8 problems · 0 labs · 1 math
+**10** solved · 9 problems · 0 labs · 1 math
 
 ![Coverage](./coverage.svg)
 
@@ -20,6 +20,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [KL Divergence Between Two Normal Distributions](https://www.deep-ml.com/problems/56) | easy | 2026-10-11 | [solution](problems/0056-kl-divergence-between-two-normal-distributions) |
 | [Linear Regression Using Normal Equation](https://www.deep-ml.com/problems/14) | easy | 2026-10-07 | [solution](problems/0014-linear-regression-using-normal-equation) |
 | [Sigmoid Activation Function Understanding](https://www.deep-ml.com/problems/22) | easy | 2026-10-07 | [solution](problems/0022-sigmoid-activation-function-understanding) |
+| [Top-K Largest Elements in a List](https://www.deep-ml.com/problems/1137) | easy | 2026-10-12 | [solution](problems/1137-top-k-largest-elements-in-a-list) |
 
 ## Math
 
